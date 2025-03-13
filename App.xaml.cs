@@ -9,7 +9,7 @@
 
         protected override Window CreateWindow(IActivationState? activationState)
         {
-            return new Window(new MainPage()) { Title = "Forge" };
+            return new Window(new MainPage()) { Title = "Forge - Workout Tracker" };
         }
     }
 }
