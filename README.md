@@ -2,7 +2,7 @@
 
 A web application to track users' workouts, monitor progression, and maintain a history of exercises. Users can create an account, log workouts, and optionally back up their data to the cloud.
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/801f6d37-c055-451f-9f0c-53845872415e">
+  <img src="https://github.com/user-attachments/assets/fc756a35-d285-4e53-92dd-9da8a12b66bb">
 <p>
 
 ## Table of Contents
