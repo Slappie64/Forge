@@ -59,6 +59,46 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/luigilocal/OneDrive/04-DEVELOPMENT/Code/01 - Projects/01 - Forge/Forge.Client/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9yZ2UuQ2xpZW50XExheW91dFxNYWluTGF5b3V0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luigilocal/OneDrive/04-DEVELOPMENT/Code/01 - Projects/01 - Forge/Forge.Client/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9yZ2UuQ2xpZW50XExheW91dFxOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luigilocal/OneDrive/04-DEVELOPMENT/Code/01 - Projects/01 - Forge/Forge.Client/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9yZ2UuQ2xpZW50XFBhZ2VzXENvdW50ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luigilocal/OneDrive/04-DEVELOPMENT/Code/01 - Projects/01 - Forge/Forge.Client/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9yZ2UuQ2xpZW50XFBhZ2VzXEhvbWUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luigilocal/OneDrive/04-DEVELOPMENT/Code/01 - Projects/01 - Forge/Forge.Client/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9yZ2UuQ2xpZW50XFBhZ2VzXFdlYXRoZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luigilocal/OneDrive/04-DEVELOPMENT/Code/01 - Projects/01 - Forge/Forge.Client/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9yZ2UuQ2xpZW50XFJvdXRlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luigilocal/OneDrive/04-DEVELOPMENT/Code/01 - Projects/01 - Forge/Forge.Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9yZ2UuQ2xpZW50XF9JbXBvcnRzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luigilocal/OneDrive/04-DEVELOPMENT/Code/01 - Projects/01 - Forge/Forge/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9yZ2VcQ29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luigilocal/OneDrive/04-DEVELOPMENT/Code/01 - Projects/01 - Forge/Forge/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9yZ2VcQ29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/luigilocal/OneDrive/04-DEVELOPMENT/Code/01 - Projects/01 - Forge/Forge/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Rm9yZ2VcQ29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/luigilocal/OneDrive/04-DEVELOPMENT/Code/01 - Projects/01 - Forge/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-mnsfwtgx72
