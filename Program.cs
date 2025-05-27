@@ -51,7 +51,7 @@ app.UseAuthorization();
 app.UseAntiforgery();
 
 app.MapBlazorHub();
-app.MapFallbackToPage("/_Host");
+//app.MapFallbackToPage("/_Host");
 
 app.MapStaticAssets();
 app.MapRazorComponents<App>()
