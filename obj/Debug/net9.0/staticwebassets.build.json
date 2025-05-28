@@ -1,0 +1,1034 @@
+{
+  "Version": 1,
+  "Hash": "hi2ukHdQov4Ju/SZLZa5wqJjC1Npll+y8mHYhnOwOb8=",
+  "Source": "Forge",
+  "BasePath": "_content/Forge",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Forge\\wwwroot",
+      "Source": "Forge",
+      "ContentRoot": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\wwwroot\\",
+      "BasePath": "_content/Forge",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\luigilocal\\.nuget\\packages\\extensions.mudblazor.staticinput\\3.2.0\\staticwebassets\\NavigationObserver.js",
+      "SourceId": "Extensions.MudBlazor.StaticInput",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\luigilocal\\.nuget\\packages\\extensions.mudblazor.staticinput\\3.2.0\\staticwebassets\\",
+      "BasePath": "_content/Extensions.MudBlazor.StaticInput",
+      "RelativePath": "NavigationObserver.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lp4d2hvui5",
+      "Integrity": "5xAqVXGu6Tv7zFwKN73F345Yp8b+mUnkI3nYcD6QCXg=",
+      "CopyToOutputDirectory": "Always",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\luigilocal\\.nuget\\packages\\extensions.mudblazor.staticinput\\3.2.0\\staticwebassets\\NavigationObserver.js"
+    },
+    {
+      "Identity": "C:\\Users\\luigilocal\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\MudBlazor.min.css",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\luigilocal\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qmvjbof2tn",
+      "Integrity": "Hh7BRmiYuRD1Lq8ZF9jVWOOJuN3tWPS5M2lLZzuayjw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\luigilocal\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\MudBlazor.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\luigilocal\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\MudBlazor.min.js",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\luigilocal\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jrqzp895hu",
+      "Integrity": "weSY1+xC2IWsc4ncUHtQhWp3H5eek/LVHZEDlWdgryY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\luigilocal\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\MudBlazor.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\obj\\Debug\\net9.0\\compressed\\0wz98yz2xy-jrqzp895hu.gz",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\luigilocal\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\MudBlazor.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "8bvcrpu8tg",
+      "Integrity": "fPelsa5xKf6i4FDs0+l6mXA3nmVOeQN3Nw8zL44VhgY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\luigilocal\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\MudBlazor.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\obj\\Debug\\net9.0\\compressed\\dgys45lwzh-2jeq8efc6q.gz",
+      "SourceId": "Forge",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Forge",
+      "RelativePath": "favicon#[.{fingerprint=2jeq8efc6q}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\wwwroot\\favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "pkzf8os278",
+      "Integrity": "2QmB0roWK84FU9Ju+PK0EsKm/9obifm2L/+HWs2VtiA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\obj\\Debug\\net9.0\\compressed\\tzxjg6is5z-qmvjbof2tn.gz",
+      "SourceId": "MudBlazor",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/MudBlazor",
+      "RelativePath": "MudBlazor.min.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\luigilocal\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\MudBlazor.min.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ggpnhp633n",
+      "Integrity": "YEqNjKz/Ex/U/Dk0UM+ekJGIrbPrUtFY3n49sp1ECUg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\luigilocal\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\MudBlazor.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\obj\\Debug\\net9.0\\compressed\\weg7obbbjn-lp4d2hvui5.gz",
+      "SourceId": "Extensions.MudBlazor.StaticInput",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Extensions.MudBlazor.StaticInput",
+      "RelativePath": "NavigationObserver.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\luigilocal\\.nuget\\packages\\extensions.mudblazor.staticinput\\3.2.0\\staticwebassets\\NavigationObserver.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "vis12zgog2",
+      "Integrity": "p/TXD92fxVFbGsbb+dOA3rXexGDZOIe0KByLSYuBZ4w=",
+      "CopyToOutputDirectory": "Always",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\luigilocal\\.nuget\\packages\\extensions.mudblazor.staticinput\\3.2.0\\staticwebassets\\NavigationObserver.js"
+    },
+    {
+      "Identity": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\wwwroot\\favicon.ico",
+      "SourceId": "Forge",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\wwwroot\\",
+      "BasePath": "_content/Forge",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2jeq8efc6q",
+      "Integrity": "8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "_content/Extensions.MudBlazor.StaticInput/NavigationObserver.js",
+      "AssetFile": "C:\\Users\\luigilocal\\.nuget\\packages\\extensions.mudblazor.staticinput\\3.2.0\\staticwebassets\\NavigationObserver.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6859"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5xAqVXGu6Tv7zFwKN73F345Yp8b+mUnkI3nYcD6QCXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 14:29:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5xAqVXGu6Tv7zFwKN73F345Yp8b+mUnkI3nYcD6QCXg="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Extensions.MudBlazor.StaticInput/NavigationObserver.js",
+      "AssetFile": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\obj\\Debug\\net9.0\\compressed\\weg7obbbjn-lp4d2hvui5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000669792364"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1492"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p/TXD92fxVFbGsbb+dOA3rXexGDZOIe0KByLSYuBZ4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 14:29:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5xAqVXGu6Tv7zFwKN73F345Yp8b+mUnkI3nYcD6QCXg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5xAqVXGu6Tv7zFwKN73F345Yp8b+mUnkI3nYcD6QCXg="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Extensions.MudBlazor.StaticInput/NavigationObserver.js.gz",
+      "AssetFile": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\obj\\Debug\\net9.0\\compressed\\weg7obbbjn-lp4d2hvui5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1492"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p/TXD92fxVFbGsbb+dOA3rXexGDZOIe0KByLSYuBZ4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 14:29:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p/TXD92fxVFbGsbb+dOA3rXexGDZOIe0KByLSYuBZ4w="
+        }
+      ]
+    },
+    {
+      "Route": "_content/Extensions.MudBlazor.StaticInput/NavigationObserver.lp4d2hvui5.js",
+      "AssetFile": "C:\\Users\\luigilocal\\.nuget\\packages\\extensions.mudblazor.staticinput\\3.2.0\\staticwebassets\\NavigationObserver.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6859"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5xAqVXGu6Tv7zFwKN73F345Yp8b+mUnkI3nYcD6QCXg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 14:29:49 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lp4d2hvui5"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5xAqVXGu6Tv7zFwKN73F345Yp8b+mUnkI3nYcD6QCXg="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/Extensions.MudBlazor.StaticInput/NavigationObserver.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.css",
+      "AssetFile": "C:\\Users\\luigilocal\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\MudBlazor.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "599316"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hh7BRmiYuRD1Lq8ZF9jVWOOJuN3tWPS5M2lLZzuayjw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 15:51:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hh7BRmiYuRD1Lq8ZF9jVWOOJuN3tWPS5M2lLZzuayjw="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.css",
+      "AssetFile": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\obj\\Debug\\net9.0\\compressed\\tzxjg6is5z-qmvjbof2tn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000015440200"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64765"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YEqNjKz/Ex/U/Dk0UM+ekJGIrbPrUtFY3n49sp1ECUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 15:51:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Hh7BRmiYuRD1Lq8ZF9jVWOOJuN3tWPS5M2lLZzuayjw=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hh7BRmiYuRD1Lq8ZF9jVWOOJuN3tWPS5M2lLZzuayjw="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.css.gz",
+      "AssetFile": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\obj\\Debug\\net9.0\\compressed\\tzxjg6is5z-qmvjbof2tn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "64765"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YEqNjKz/Ex/U/Dk0UM+ekJGIrbPrUtFY3n49sp1ECUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 15:51:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YEqNjKz/Ex/U/Dk0UM+ekJGIrbPrUtFY3n49sp1ECUg="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.jrqzp895hu.js",
+      "AssetFile": "C:\\Users\\luigilocal\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\MudBlazor.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"weSY1+xC2IWsc4ncUHtQhWp3H5eek/LVHZEDlWdgryY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 15:51:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jrqzp895hu"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-weSY1+xC2IWsc4ncUHtQhWp3H5eek/LVHZEDlWdgryY="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MudBlazor/MudBlazor.min.js"
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.js",
+      "AssetFile": "C:\\Users\\luigilocal\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\MudBlazor.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "67660"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"weSY1+xC2IWsc4ncUHtQhWp3H5eek/LVHZEDlWdgryY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 15:51:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-weSY1+xC2IWsc4ncUHtQhWp3H5eek/LVHZEDlWdgryY="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.js",
+      "AssetFile": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\obj\\Debug\\net9.0\\compressed\\0wz98yz2xy-jrqzp895hu.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000067990209"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14707"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fPelsa5xKf6i4FDs0+l6mXA3nmVOeQN3Nw8zL44VhgY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 15:51:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"weSY1+xC2IWsc4ncUHtQhWp3H5eek/LVHZEDlWdgryY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-weSY1+xC2IWsc4ncUHtQhWp3H5eek/LVHZEDlWdgryY="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.js.gz",
+      "AssetFile": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\obj\\Debug\\net9.0\\compressed\\0wz98yz2xy-jrqzp895hu.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14707"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fPelsa5xKf6i4FDs0+l6mXA3nmVOeQN3Nw8zL44VhgY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 15:51:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fPelsa5xKf6i4FDs0+l6mXA3nmVOeQN3Nw8zL44VhgY="
+        }
+      ]
+    },
+    {
+      "Route": "_content/MudBlazor/MudBlazor.min.qmvjbof2tn.css",
+      "AssetFile": "C:\\Users\\luigilocal\\.nuget\\packages\\mudblazor\\8.6.0\\staticwebassets\\MudBlazor.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "599316"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Hh7BRmiYuRD1Lq8ZF9jVWOOJuN3tWPS5M2lLZzuayjw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 29 Apr 2025 15:51:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qmvjbof2tn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Hh7BRmiYuRD1Lq8ZF9jVWOOJuN3tWPS5M2lLZzuayjw="
+        },
+        {
+          "Name": "label",
+          "Value": "_content/MudBlazor/MudBlazor.min.css"
+        }
+      ]
+    },
+    {
+      "Route": "favicon.2jeq8efc6q.ico",
+      "AssetFile": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\obj\\Debug\\net9.0\\compressed\\dgys45lwzh-2jeq8efc6q.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000342348511"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2920"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2QmB0roWK84FU9Ju+PK0EsKm/9obifm2L/+HWs2VtiA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 16:06:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2jeq8efc6q"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.2jeq8efc6q.ico",
+      "AssetFile": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 16:06:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2jeq8efc6q"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.2jeq8efc6q.ico.gz",
+      "AssetFile": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\obj\\Debug\\net9.0\\compressed\\dgys45lwzh-2jeq8efc6q.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2QmB0roWK84FU9Ju+PK0EsKm/9obifm2L/+HWs2VtiA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 16:06:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2jeq8efc6q"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2QmB0roWK84FU9Ju+PK0EsKm/9obifm2L/+HWs2VtiA="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\obj\\Debug\\net9.0\\compressed\\dgys45lwzh-2jeq8efc6q.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000342348511"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2920"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2QmB0roWK84FU9Ju+PK0EsKm/9obifm2L/+HWs2VtiA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 16:06:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15086"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 16:06:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8kNQh+LErZHx3sMz237BHWFasAGQ88EWakJrWWYOxTA="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico.gz",
+      "AssetFile": "C:\\Users\\luigilocal\\OneDrive\\04-DEVELOPMENT\\Code\\01 - Projects\\01 - Forge\\obj\\Debug\\net9.0\\compressed\\dgys45lwzh-2jeq8efc6q.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2920"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2QmB0roWK84FU9Ju+PK0EsKm/9obifm2L/+HWs2VtiA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 May 2025 16:06:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2QmB0roWK84FU9Ju+PK0EsKm/9obifm2L/+HWs2VtiA="
+        }
+      ]
+    }
+  ]
+}
