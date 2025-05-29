@@ -10,11 +10,11 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-Forge-225ee422-6c3a-44c8-95e3-30d9175c6f18")]
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-Forge-ad2928c0-2a73-4377-8b6e-49dee7658a70")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("Forge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f90b2dd3daf87073b73cf53b7824a16f8fb31efd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39433ac163e67ffbcf42508d1ba9781b34006790")]
 [assembly: System.Reflection.AssemblyProductAttribute("Forge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Forge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

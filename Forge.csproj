@@ -4,7 +4,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-Forge-225ee422-6c3a-44c8-95e3-30d9175c6f18</UserSecretsId>
+    <UserSecretsId>aspnet-Forge-ad2928c0-2a73-4377-8b6e-49dee7658a70</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
